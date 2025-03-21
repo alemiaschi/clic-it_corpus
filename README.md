@@ -1,2 +1,2 @@
-# clic-it_corpus
-Dataset and Materials for the IJCoL Paper of the 10 years of CLiC-it
+# CLiC-it Corpus
+Dataset and Materials for the IJCoL Paper of the 10 years of CLiC-it.
