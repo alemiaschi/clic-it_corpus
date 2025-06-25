@@ -1,6 +1,6 @@
 # CLiC-it Corpus
 
-This repository contains the **CLiC-it Corpus**, a structured dataset of all the papers presented at the **CLiC-it** conferences from 2014 to 2024.
+This repository contains the **CLiC-it Corpus**, a structured dataset of all the papers presented at the [CLiC-it conferences](https://www.ai-lc.it/conferenze/clic-it/) from 2014 to 2024.
 
 ## Dataset Overview
 
